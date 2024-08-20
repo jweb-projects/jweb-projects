@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, I'm James 👋
+
+I intend to house my future planned projects in this profile space as I further develop within DS/ML.
+
+I'm currently interested in applications within computer vision (object detection and image segmentation), forecasting, recommendation systems and intend to have some personal productivity projects thrown in too. If you're intersted, reach out and i'd be happy to talk more.
+
 
 <!--
 **jweb-projects/jweb-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
